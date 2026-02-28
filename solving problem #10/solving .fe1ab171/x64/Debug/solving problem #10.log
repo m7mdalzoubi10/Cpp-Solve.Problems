@@ -1,0 +1,4 @@
+﻿  solving problem #10.cpp
+C:\Users\m7mda\Downloads\OneDrive\files\C++ Problem sol level 3\solving problem #10\solving problem #10.cpp(16,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\m7mda\Downloads\OneDrive\files\C++ Problem sol level 3\solving problem #10\solving problem #10.cpp(18,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  solving problem #10.vcxproj -> C:\Users\m7mda\Downloads\OneDrive\files\C++ Problem sol level 3\solving problem #10\x64\Debug\solving problem #10.exe
